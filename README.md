@@ -14,6 +14,14 @@ nodejs
 "sequelize": "^6.21.4"
 ```
 
+Dev Dependencies
+
+```
+"nodemon": "^2.0.19"
+"sequelize-cli": "^6.4.1"
+
+```
+
 Installation guide
 
 ``` git clone https://github.com/rojandhimal/employee-api.git ```
